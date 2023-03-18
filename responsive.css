@@ -1,0 +1,81 @@
+@media (max-width:700px) {
+    .menu{
+        display: none;
+    }
+
+    .head .headname{
+        margin-left: 10px;
+    }
+
+    .intro{
+        width: 150px;
+        margin-left: 10px;
+    }
+    .intro .main{
+        width: 400px;
+    }
+    .intropic {
+        margin-top: 80px;
+        margin-left: 10px;
+    }
+    .intropic img{
+        width: 450px;
+    }
+    .head2{
+        margin-left: 10px;
+    }
+    .serv{
+        margin-left: 80px;
+    }
+    .head3{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+    }
+    .uxdesign, .frontend, .backend {
+        width: 20rem;
+    }
+    .goodbiz{
+        margin-left: 80px;
+    }
+    .adpics{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+        width: 400px;
+    }
+    .adpics img{
+        width: 400px;
+    }
+    .see{
+        margin-left: 10%;
+        margin-top: 10px;
+    }
+    .meet{
+        display: flex;
+        flex-direction: column;
+    }
+    .teampics .team1, .team2, .team3{
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+    .commentguy{
+        width: 500px;
+        margin-left: 10px;
+    }
+    .carl{
+        margin-top: 40px;
+        margin-left: 10px;
+    }
+    .footer{
+        height: 900px;
+        width: 400px;
+        background-color: #100E1D;
+    }
+    .footcontent{
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+}
